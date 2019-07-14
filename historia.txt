@@ -1,4 +1,5 @@
 ﻿Aquí escribimos la historia juntos
+<<<<<<< HEAD
 
 LOS PONY
  
@@ -7,3 +8,6 @@ Son de muchos colores a mi princesa le encanta y a mas o menos ya que los engo q
 los ponys realizan aventuras emocionantes que a los niños les encantan y les llaman la atención
 sus colores llamativos y sus distintias formas de hablar.
 Los ponys viven en un mundo magico don de nada es imposible 
+=======
+Había una vez una lluvia de asteroides...
+>>>>>>> c1fbb93ef18f1f4fbed7e398ce176d1bfd39a92a
