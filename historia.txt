@@ -1,3 +1,23 @@
+<<<<<<< HEAD
 ﻿Aquí escribimos la historia juntos
 
 Los vengadores estan formados por: hulk, capitan america, iron man, la viuda negra y ojo de halcon.
+=======
+<<<<<<< HEAD
+Aquí escribimos la historia juntos
+los zombies se refieren a un ente que de una u otra forma puede resucitar..
+=======
+﻿Aquí escribimos la historia juntos
+<<<<<<< HEAD
+
+LOS PONY
+ 
+Son de muchos colores a mi princesa le encanta y a mas o menos ya que los engo que ver con ella,
+
+los ponys realizan aventuras emocionantes que a los niños les encantan y les llaman la atención
+sus colores llamativos y sus distintias formas de hablar.
+Los ponys viven en un mundo magico don de nada es imposible 
+=======
+Había una vez una lluvia de asteroides...
+>>>>>>> c1fbb93ef18f1f4fbed7e398ce176d1bfd39a92a
+>>>>>>> eb09fbb6c8ed4bd25e9d2009510950e8d2820842
