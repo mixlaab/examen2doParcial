@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Aquí escribimos la historia juntos
 los zombies se refieren a un ente que de una u otra forma puede resucitar..
+=======
+﻿Aquí escribimos la historia juntos
+Había una vez una lluvia de asteroides...
+>>>>>>> c1fbb93ef18f1f4fbed7e398ce176d1bfd39a92a
